@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+*.log
+
+# Keep project files and resource files in the repository
+# do not ignore the learning work itself
+
+# Leave the workspace venv untouched outside this repo
+# The virtual environment is intentionally not moved or modified.
